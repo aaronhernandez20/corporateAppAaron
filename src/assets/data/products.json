@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "nombre": "Teclado mecánico",
+    "unidades": 12,
+    "precio": 45.99,
+    "foto": "assets/images/teclado.jpg",
+    "vendedor": "TechStore"
+  },
+  {
+    "id": 2,
+    "nombre": "Ratón inalámbrico",
+    "unidades": 20,
+    "precio": 19.99,
+    "foto": "assets/images/raton.jpg",
+    "vendedor": "ElectroHogar"
+  },
+  {
+    "id": 3,
+    "nombre": "Monitor 24 pulgadas",
+    "unidades": 7,
+    "precio": 129.5,
+    "foto": "assets/images/monitor.jpg",
+    "vendedor": "PantallasYa"
+  }
+]
